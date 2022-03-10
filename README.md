@@ -1,4 +1,4 @@
-# SQL_Techniques_For_DataAnalysis
+# Basic-SQL-For-DataAnalysis
 
 
 SQL techniques learned through this code are slicing, sorting, grouping, filtering, counting, unique, aggregating data. 
